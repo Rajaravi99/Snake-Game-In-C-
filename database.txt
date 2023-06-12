@@ -1,0 +1,7 @@
+ 1 raja 2 0
+ 2 rani 3 0
+ 3 Biva 4 100
+ 5 Riva 6 0
+ 4 Don 76 0
+ 7 Nannu 76 9
+ 46 qwerty 35 90
