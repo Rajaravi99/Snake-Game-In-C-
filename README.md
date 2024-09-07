@@ -1,0 +1,1 @@
+This game is simillar to games we played in old nokia phones, each time a frog appears, and when your snake eats the frog, its length keeps on increasing, until you violate any rule in the game, at the end your score pops up.
